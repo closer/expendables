@@ -1,5 +1,4 @@
 require "expendables/version"
-
-module Expendables
-  # Your code goes here...
-end
+require "expendables/symbol"
+require "expendables/comparable"
+require "expendables/kernel"
